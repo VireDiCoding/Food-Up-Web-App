@@ -1,0 +1,20 @@
+.logo{
+    filter: invert(100%);
+    width: 100%;
+}
+.admin-logo{
+    width: max(10%,80px);
+}
+
+.admin-logo p{
+    font-size: max(1vw, 14px);
+    font-weight: 500;
+    text-align: left;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+
